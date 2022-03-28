@@ -1,0 +1,37 @@
+name: quiz
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: any
+
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "ic_launcher"
+  image_path: "lib/icon.png"
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/
+
